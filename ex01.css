@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+
+.highlight {
+    color: blue;
+}
+
+#special {
+    text-decoration: underline solid;
+}
+
+.box p {
+    background: yellow;
+}
+
+ul > li {
+    border: 2px solid;
+}
+
+/* ul > li {
+    border: 2px dashed;
+}
+
+ul > li {
+    border: 2px dotted;
+} */
+

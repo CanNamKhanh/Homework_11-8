@@ -1,0 +1,20 @@
+h2::before {
+    content: "👉";
+}
+
+li::after {
+    content: "✔";
+}
+
+p::first-letter {
+    font-size: xx-large;
+    color: red;
+}
+
+p::first-line {
+    background: yellow;
+}
+
+p::selection {
+    background: green;
+}
